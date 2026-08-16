@@ -1,16 +1,4 @@
-<div align="center">
 
-  <img src="./assets/logo.png" width="180" alt="Dotcase Engineering Logo">
-
-  <p>
-    Building scalable web applications, APIs, software solutions & digital experiences.
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat" alt="Profile Views">
-  </p>
-
-</div>
 
 ---
 
