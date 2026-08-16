@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Dotcase Engineering
 
-<!--
-**sadhik-ali/sadhik-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Commit. Push. Pray. 🙏💻
 
-Here are some ideas to get you started:
+### 🚀 What We Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We build scalable web applications, APIs, and digital solutions.
+
+### 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,html,css,tailwind,postgres,mysql,redis,docker,git,github,aws" />
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+### 🌐 Connect With Us
+
+- 🌍 Website
+- 💼 LinkedIn
+- 📧 Email
