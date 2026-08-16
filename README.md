@@ -165,18 +165,3 @@
 </div>
 
 
-## 🚀 Technologies We Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,jquery,tailwind,bootstrap" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,django,djangorest,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,docker,linux,nginx,aws,vercel" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,blender,figma,photoshop,anaconda,pycharm,unreal,unity" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=codepen,discord,stackoverflow,notion" />
-</p>
