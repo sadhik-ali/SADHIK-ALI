@@ -2,62 +2,63 @@
 
   <img src="./assets/logo.png" width="180" alt="Dotcase Engineering Logo">
 
-  <h1>Dotcase Engineering</h1>
-
-  <p>
-    <strong>Commit. Push. Pray. 🙏💻</strong>
-  </p>
-
   <p>
     Building scalable web applications, APIs, software solutions & digital experiences.
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat" alt="Profile Views">
   </p>
 
 </div>
 
 ---
 
-## 🚀 What We Do
+## 👨‍💻 About
 
-We build modern, scalable and production-ready:
+I am a **Senior Software Developer** focused on building scalable, secure, and high-performance web applications and business solutions.
 
-- 🌐 Web Applications
+I work across the full software development lifecycle — from **UI/UX and frontend development to backend architecture, REST APIs, databases, deployment, and cloud infrastructure**.
+
+My primary focus is on creating clean, maintainable, production-ready software using modern technologies.
+
+### 🚀 What I Work On
+
+- 🌐 Full-Stack Web Applications
 - 🛒 E-Commerce Platforms
 - ⚙️ ERP & CRM Systems
-- 🔌 REST APIs
-- 📱 Business Applications
+- 🔌 REST APIs & Backend Systems
 - ☁️ Cloud & Deployment Solutions
-- 🎨 UI/UX & Digital Experiences
-- 🤖 Automation & Software Solutions
+- 🗄️ Database Architecture
+- 🔐 Secure & Scalable Applications
+- 🎨 Modern UI/UX
+- 🤖 Automation & Business Solutions
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ajax,json,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
 **HTML5 • CSS3 • JavaScript • AJAX • JSON • React • Next.js • Tailwind CSS • Bootstrap**
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,django_rest,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,nestjs" />
 </p>
 
 **Python • Django • Django REST Framework • Node.js • Express.js • NestJS**
 
 ---
 
-## 🗄️ Database & Caching
+### 🗄️ Database & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" />
@@ -67,7 +68,7 @@ We build modern, scalable and production-ready:
 
 ---
 
-## 🔧 Version Control & API
+### 🔧 Version Control & API
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
@@ -77,7 +78,7 @@ We build modern, scalable and production-ready:
 
 ---
 
-## ☁️ DevOps, Cloud & Hosting
+### ☁️ DevOps, Cloud & Hosting
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel,cloudflare" />
@@ -87,23 +88,19 @@ We build modern, scalable and production-ready:
 
 ---
 
-## 📊 Analytics & Project Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=googleanalytics,figma" />
-</p>
+### 📊 Analytics & Project Management
 
 **Google Analytics • Trello • Figma**
 
 ---
 
-## 💳 Payment Integration
+### 💳 Payment Integration
 
 **Stripe • Razorpay**
 
 ---
 
-## 🎨 Design & Creative Tools
+### 🎨 Design & Creative Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
@@ -113,7 +110,7 @@ We build modern, scalable and production-ready:
 
 ---
 
-## 🎮 Game Development
+### 🎮 Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal,unity" />
@@ -123,7 +120,7 @@ We build modern, scalable and production-ready:
 
 ---
 
-## 🐧 Operating Systems
+### 🐧 Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
@@ -164,39 +161,34 @@ We build modern, scalable and production-ready:
 
 ---
 
-# 📊 GitHub Statistics
+## 🌐 Connect With Us
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<a href="https://YOUR-WEBSITE.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%">
+<a href="https://linkedin.com/company/YOUR_COMPANY">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%">
+### Dotcase Engineering
+
+**Building • Coding • Deploying • Innovating**
+
+<br>
+
+☕ **Code. Debug. Deploy. Repeat.** 💻
 
 </div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
-
-</div>
-
----
-
-# 🔥 Our Development Philosophy
-
-```text
-Think → Design → Code → Test → Debug → Deploy → Repeat
