@@ -1,104 +1,106 @@
+# 💻 Tech Stack
 
-
----
-
-## 👨‍💻 About
-
-I am a **Senior Software Developer** focused on building scalable, secure, and high-performance web applications and business solutions.
-
-I work across the full software development lifecycle — from **UI/UX and frontend development to backend architecture, REST APIs, databases, deployment, and cloud infrastructure**.
-
-My primary focus is on creating clean, maintainable, production-ready software using modern technologies.
-
-### 🚀 What I Work On
-
-- 🌐 Full-Stack Web Applications
-- 🛒 E-Commerce Platforms
-- ⚙️ ERP & CRM Systems
-- 🔌 REST APIs & Backend Systems
-- ☁️ Cloud & Deployment Solutions
-- 🗄️ Database Architecture
-- 🔐 Secure & Scalable Applications
-- 🎨 Modern UI/UX
-- 🤖 Automation & Business Solutions
-
----
-
-## 💻 Tech Stack
-
-### 🌐 Frontend
+## 🌐 Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ajax,json,react,nextjs,threejs,jquery,tailwind,bootstrap" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • AJAX • JSON • React • Next.js • Tailwind CSS • Bootstrap**
+**HTML5 • CSS3 • JavaScript • AJAX • JSON • React • Next.js • Three.js • jQuery • Tailwind CSS • Bootstrap**
 
 ---
 
-### ⚙️ Backend
+## ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,django,djangorest,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma" />
 </p>
 
-**Python • Django • Django REST Framework • Node.js • Express.js • NestJS**
+**Python • Django • Django REST Framework • FastAPI • Flask • Node.js • Express.js • NestJS • .NET • PHP • GraphQL • Prisma**
 
 ---
 
-### 🗄️ Database & Caching
+## 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
-**MySQL • PostgreSQL • MongoDB • Firebase • Redis**
+**Dart • Flutter**
 
 ---
 
-### 🔧 Version Control & API
+## 🗄️ Database & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,prisma" />
 </p>
 
-**Git • GitHub • Postman**
+**MySQL • PostgreSQL • MongoDB • Firebase • Redis • SQLite • Prisma**
 
 ---
 
-### ☁️ DevOps, Cloud & Hosting
+## 🔧 Version Control & Collaboration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket" />
 </p>
 
-**Docker • Linux • AWS • Vercel • Hostinger • cPanel • DigitalOcean**
+**Git • GitHub • GitHub Actions • GitLab • Bitbucket**
 
 ---
 
-### 📊 Analytics & Project Management
-
-**Google Analytics • Trello • Figma**
-
----
-
-### 💳 Payment Integration
-
-**Stripe • Razorpay**
-
----
-
-### 🎨 Design & Creative Tools
+## ☁️ DevOps, Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,vercel,cloudflare" />
 </p>
 
-**Figma • Adobe Photoshop**
+**Docker • Linux • Nginx • AWS • Vercel • Cloudflare • Hostinger • cPanel • DigitalOcean**
 
 ---
 
-### 🎮 Game Development
+## 🧪 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,pycharm,codepen,stackoverflow" />
+</p>
+
+**Postman • PyCharm • CodePen • Stack Overflow**
+
+---
+
+## 📊 Analytics & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=googleanalytics,notion,figma" />
+</p>
+
+**Google Analytics • Notion • Trello • Figma**
+
+---
+
+## 🎨 Design & 3D
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,figma,photoshop" />
+</p>
+
+**Blender • Figma • Adobe Photoshop**
+
+---
+
+## 🐍 Python Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,anaconda,pycharm,django,fastapi,flask" />
+</p>
+
+**Python • Anaconda • PyCharm • Django • FastAPI • Flask**
+
+---
+
+## 🎮 Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal,unity" />
@@ -108,7 +110,7 @@ My primary focus is on creating clean, maintainable, production-ready software u
 
 ---
 
-### 🐧 Operating Systems
+## 🐧 Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
@@ -118,65 +120,10 @@ My primary focus is on creating clean, maintainable, production-ready software u
 
 ---
 
-# 🛠️ Full Technology List
+## 💬 Community & Communication
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow" />
+</p>
 
-| Category | Technologies |
-|---|---|
-| **Frontend** | HTML5, CSS3, JavaScript, AJAX, JSON |
-| **Frontend Frameworks** | React, Next.js |
-| **CSS Frameworks** | Tailwind CSS, Bootstrap |
-| **Backend** | Python, Node.js |
-| **Backend Frameworks** | Django, Django REST Framework, Express.js, NestJS |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase |
-| **Caching** | Redis |
-| **Version Control** | Git, GitHub |
-| **DevOps** | Docker, Linux |
-| **Cloud** | AWS, DigitalOcean, Vercel |
-| **Hosting** | Hostinger, cPanel |
-| **API Tools** | Postman |
-| **Analytics** | Google Analytics |
-| **Project Management** | Trello |
-| **UI/UX** | Figma |
-| **Payments** | Stripe, Razorpay |
-| **Design** | Adobe Photoshop |
-| **Game Development** | Unreal Engine, Unity |
-| **Gaming Tools** | Epic Games Launcher |
-| **Security / OS** | Kali Linux |
-
-</div>
-
----
-
-## 🌐 Connect With Us
-
-<div align="center">
-
-<a href="https://YOUR-WEBSITE.com">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/company/YOUR_COMPANY">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Dotcase Engineering
-
-**Building • Coding • Deploying • Innovating**
-
-<br>
-
-☕ **Code. Debug. Deploy. Repeat.** 💻
-
-</div>
+**Discord • GitHub • Stack Overflow**
