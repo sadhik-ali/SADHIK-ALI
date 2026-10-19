@@ -1,5 +1,5 @@
 # SADHIK ALI 🤺
-## 🌐 Frontend & Web
+##  Frontend & Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ajax,json,react,nextjs,threejs,jquery,tailwind,bootstrap" />
@@ -9,7 +9,7 @@
 
 ---
 
-## ⚙️ Backend & Frameworks
+##  Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,djangorest,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 📱 Mobile Development
+##  Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🗄️ Database & Caching
+##  Database & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,prisma" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🔧 Version Control & Collaboration
+##  Version Control & Collaboration
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket" />
@@ -49,7 +49,7 @@
 
 ---
 
-## ☁️ DevOps, Cloud & Infrastructure
+##  DevOps, Cloud & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,vercel,cloudflare" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🧪 Development Tools
+##  Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,pycharm,codepen,stackoverflow" />
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 Analytics & Productivity
+##  Analytics & Productivity
 
 <p>
   <img src="https://skillicons.dev/icons?i=notion,figma,googleanalytics" />
@@ -79,7 +79,7 @@
 
 ---
 
-## 🎨 Design & 3D
+##  Design & 3D
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender,figma,photoshop" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 🐍 Python Ecosystem
+##  Python Ecosystem
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,anaconda,pycharm,django,fastapi,flask" />
@@ -99,7 +99,7 @@
 
 ---
 
-## 🎮 Game Development
+##  Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal,unity" />
@@ -109,7 +109,7 @@
 
 ---
 
-## 🐧 Operating Systems
+##  Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
@@ -119,7 +119,7 @@
 
 ---
 
-## 💬 Community & Communication
+##  Community & Communication
 
 <p>
   <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow" />
@@ -128,7 +128,7 @@
 **Discord • GitHub • Stack Overflow**
 
 
-# 🛠️ Full Technology List
+#  Full Technology List
 
 <div align="center">
 
