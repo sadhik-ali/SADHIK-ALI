@@ -1,5 +1,4 @@
-# 💻 Tech Stack
-
+# 💻 SADHIK ALI
 ## 🌐 Frontend & Web
 
 <p>
