@@ -1,4 +1,4 @@
-# SADHIK ALI 🤺
+# I’m Sadhik Ali, a Senior Software Engineer 🤺
 ##  Frontend & Web
 
 <p>
