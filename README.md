@@ -72,7 +72,7 @@
 ## 📊 Analytics & Productivity
 
 <p>
-  <img src="https://skillicons.dev/icons?i=googleanalytics,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=notion,figma,googleanalytics" />
 </p>
 
 **Google Analytics • Notion • Trello • Figma**
