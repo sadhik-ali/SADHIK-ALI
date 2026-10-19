@@ -1,4 +1,4 @@
-# 💻 SADHIK ALI
+# SADHIK ALI 🤺
 ## 🌐 Frontend & Web
 
 <p>
