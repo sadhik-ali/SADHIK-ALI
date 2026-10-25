@@ -1,6 +1,3 @@
-
-## 🛠️ Tech Stack & Tools
-
 **Frontend:** HTML5 • CSS3 • JavaScript • AJAX • JSON • React • Next.js • Three.js • jQuery • Tailwind CSS • Bootstrap
 
 **Backend & Frameworks:** Python • Django • Django REST Framework • FastAPI • Flask • Node.js • Express.js • NestJS • .NET • PHP • GraphQL • Go
@@ -22,11 +19,6 @@
 **Operating Systems:** Windows • Linux • Kali Linux
 
 ---
-
-### 💻 Technology Icons
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,jquery,tailwind,bootstrap,python,django,fastapi,flask,nodejs,express,nestjs,dotnet,cs,cpp,c,go,php,graphql,dart,flutter,qt,mysql,postgres,mongodb,firebase,redis,sqlite,prisma,git,github,githubactions,gitlab,bitbucket,docker,linux,nginx,aws,vercel,cloudflare,postman,pycharm,visualstudio,vscode,figma,notion,blender,ps,unreal,unity,kali,anaconda" alt="Technology icons" />
 </p>
-
-**Additional technologies without guaranteed Skill Icons support:** QML • XAML • WPF • Windows Forms • WinUI • Entity Framework Core • AJAX • JSON • Trello • Hostinger • cPanel • DigitalOcean • Epic Games Launcher
