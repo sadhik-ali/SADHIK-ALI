@@ -1,4 +1,3 @@
-# I’m Sadhik Ali, a Senior Software Engineer 🤺
 ##  Frontend & Web
 
 <p>
@@ -124,43 +123,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow" />
 </p>
-
-**Discord • GitHub • Stack Overflow**
-
-
-#  Full Technology List
-
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| **Frontend** | HTML5, CSS3, JavaScript, AJAX, JSON |
-| **Frontend Frameworks** | React, Next.js, Three.js, jQuery |
-| **CSS Frameworks** | Tailwind CSS, Bootstrap |
-| **Backend** | Python, Node.js, PHP, .NET |
-| **Python Frameworks** | Django, Django REST Framework, FastAPI, Flask |
-| **Node Frameworks** | Express.js, NestJS |
-| **API / Architecture** | REST API, GraphQL |
-| **ORM / Database Tools** | Prisma |
-| **Mobile** | Dart, Flutter |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, SQLite |
-| **Caching** | Redis |
-| **Version Control** | Git, GitHub, GitLab, Bitbucket |
-| **CI/CD** | GitHub Actions |
-| **DevOps** | Docker, Linux, Nginx |
-| **Cloud** | AWS, DigitalOcean, Vercel |
-| **Hosting** | Hostinger, cPanel |
-| **API Tools** | Postman |
-| **Python Tools** | Anaconda, PyCharm |
-| **Analytics** | Google Analytics |
-| **Project Management** | Trello, Notion |
-| **UI/UX** | Figma |
-| **Design** | Adobe Photoshop, Blender |
-| **Game Development** | Unreal Engine, Unity |
-| **Web Playground** | CodePen |
-| **Community** | Discord, Stack Overflow |
-| **Security / OS** | Kali Linux |
-
-</div>
-
-
