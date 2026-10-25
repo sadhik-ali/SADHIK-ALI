@@ -1,5 +1,3 @@
-## 🛠️ Tech Stack & Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,bootstrap,python,django,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma,dart,flutter,mysql,postgres,mongodb,firebase,redis,sqlite,git,github,githubactions,gitlab,docker,linux,nginx,aws,vercel,cloudflare,postman,pycharm,figma,notion,blender,ps,unreal,unity,kali,anaconda" />
 </p>
