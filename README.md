@@ -1,7 +1,3 @@
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,bootstrap,python,django,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma,dart,flutter,mysql,postgres,mongodb,firebase,redis,sqlite,git,github,githubactions,gitlab,docker,linux,nginx,aws,vercel,cloudflare,postman,pycharm,figma,notion,blender,ps,unreal,unity,kali,anaconda" />
-</p>
-
 **Frontend:** HTML5 • CSS3 • JavaScript • AJAX • JSON • React • Next.js • Three.js • jQuery • Tailwind CSS • Bootstrap
 
 **Backend:** Python • Django • Django REST Framework • FastAPI • Flask • Node.js • Express.js • NestJS • .NET • PHP • GraphQL
@@ -19,3 +15,7 @@
 **Operating Systems:** Linux • Kali Linux • Windows
 
 ---
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,bootstrap,python,django,fastapi,flask,nodejs,express,nestjs,dotnet,php,graphql,prisma,dart,flutter,mysql,postgres,mongodb,firebase,redis,sqlite,git,github,githubactions,gitlab,docker,linux,nginx,aws,vercel,cloudflare,postman,pycharm,figma,notion,blender,ps,unreal,unity,kali,anaconda" />
+</p>
